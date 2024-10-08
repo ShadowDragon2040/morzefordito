@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Balu\\Documents\\GitHub\\morze\\morze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50BE137B-9138-4B72-8A5F-0D179CFA50F2}|morze\\morze.csproj|c:\\users\\balu\\documents\\github\\morze\\morze\\morze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BE137B-9138-4B72-8A5F-0D179CFA50F2}|morze\\morze.csproj|solutionrelative:morze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Balu\\Documents\\GitHub\\morze\\morze\\morze\\Program.cs",
+              "RelativeDocumentMoniker": "morze\\Program.cs",
+              "ToolTip": "C:\\Users\\Balu\\Documents\\GitHub\\morze\\morze\\morze\\Program.cs",
+              "RelativeToolTip": "morze\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:21:53.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
