@@ -1,0 +1,15 @@
+C:\Users\Balu\Documents\GitHub\morze\morzefordito\morze\bin\Debug\net8.0\morze.exe
+C:\Users\Balu\Documents\GitHub\morze\morzefordito\morze\bin\Debug\net8.0\morze.deps.json
+C:\Users\Balu\Documents\GitHub\morze\morzefordito\morze\bin\Debug\net8.0\morze.runtimeconfig.json
+C:\Users\Balu\Documents\GitHub\morze\morzefordito\morze\bin\Debug\net8.0\morze.dll
+C:\Users\Balu\Documents\GitHub\morze\morzefordito\morze\bin\Debug\net8.0\morze.pdb
+C:\Users\Balu\Documents\GitHub\morze\morzefordito\morze\obj\Debug\net8.0\morze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balu\Documents\GitHub\morze\morzefordito\morze\obj\Debug\net8.0\morze.AssemblyInfoInputs.cache
+C:\Users\Balu\Documents\GitHub\morze\morzefordito\morze\obj\Debug\net8.0\morze.AssemblyInfo.cs
+C:\Users\Balu\Documents\GitHub\morze\morzefordito\morze\obj\Debug\net8.0\morze.csproj.CoreCompileInputs.cache
+C:\Users\Balu\Documents\GitHub\morze\morzefordito\morze\obj\Debug\net8.0\morze.sourcelink.json
+C:\Users\Balu\Documents\GitHub\morze\morzefordito\morze\obj\Debug\net8.0\morze.dll
+C:\Users\Balu\Documents\GitHub\morze\morzefordito\morze\obj\Debug\net8.0\refint\morze.dll
+C:\Users\Balu\Documents\GitHub\morze\morzefordito\morze\obj\Debug\net8.0\morze.pdb
+C:\Users\Balu\Documents\GitHub\morze\morzefordito\morze\obj\Debug\net8.0\morze.genruntimeconfig.cache
+C:\Users\Balu\Documents\GitHub\morze\morzefordito\morze\obj\Debug\net8.0\ref\morze.dll

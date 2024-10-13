@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("morze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+696eb8b58f269f23fe51b99647c8219eed91b46b")]
 [assembly: System.Reflection.AssemblyProductAttribute("morze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("morze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
